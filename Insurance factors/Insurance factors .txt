@@ -1,0 +1,43 @@
+Insurance factors 
+identification
+
+
+
+Objective
+Analyze the real influence on the claims of the risk arguments 
+and compare this structure with the actual tariff
+
+
+Description
+
+The data gives the details of third-party motor insurance claims in Sweden 
+for the year 1977. In Sweden, all motor insurance companies apply 
+identical risk arguments to classify customers, and thus their portfolios 
+and their claims statistics can be combined. The data were compiled by a 
+Swedish Committee on the Analysis of Risk Premium in Motor Insurance. 
+The Committee was asked to investigate the problem of analyzing the real 
+influence on the claims of the risk arguments and to compare this 
+structure with the actual tariff.
+
+
+Problem Statement and Motivation
+
+After understanding the data, you need to help the committee with the 
+following using the R tool:
+• The data collected through descriptive analysis
+• The total value of payment by an insurance company is an important 
+factor to be monitored. 
+• To figure out the reasons for insurance payment increase and 
+decrease. 
+• What affects their claim rates
+
+
+Task
+
+1. Find whether distance, location, bonus, make, and insured amount or 
+claims are affecting the payment
+2. Find at what location, kilometer, and bonus level their insured amount, 
+claims, and payment gets increased.
+3. Find whether the insured amount, zone, kilometer, bonus, or make 
+affects the claim rates and to what extent.
+
