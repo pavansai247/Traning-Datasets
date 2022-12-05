@@ -1,0 +1,47 @@
+College Admission
+
+
+
+
+Description
+
+Every year thousands of applications are being submitted by international 
+students for admission to colleges in the USA. It becomes an iterative task 
+for the Education Department to know the total number of applications 
+received and then compare that data with the total number of applications 
+successfully accepted and visas processed. Hence to make the entire 
+process easy, the education department in the US analyzes the factors 
+that influence the admission of a student into colleges
+
+
+
+
+Problem Statement and Motivation
+
+
+Categorize the average grade point into High, Medium, and Low with 
+admission probability percentages and plot it on a point chart. 
+Cross grid for admission variables with GRE Categorization is shown 
+below:
+• 0 - 440 Low
+• 440 - 580 Medium
+• 580+ High
+
+
+
+
+Task
+
+
+1. Find the missing values. 
+2. Find outliers 
+3. Find the structure of the data set 
+4. Normalize the data if not normally distributed.
+5. Use variable reduction techniques to identify significant variables.
+6. Run logistic model 
+7. Calculate the accuracy of the model and run validation techniques.
+8. Try other modeling techniques
+9. Determine the accuracy rates for each kind of model 
+10. Select the most accurate model 
+11. Identify other Machine learning or statistical techniques
+
