@@ -35,3 +35,20 @@ the city of Wisconsin and relates to patients in the age group 0-17 years. The
 agency wants to analyze the data to research on the healthcare costs and them 
 utilization.
 
+
+
+
+Task
+
+1. To record the patient statistics, the agency wants to find the age category of 
+people who frequently visit the hospital and has the maximum expenditure.
+2. To find out the expensive treatments to find the diagnosis-related group that 
+has maximum hospitalization and expenditure.
+3. To make sure that there is no malpractice, the agency needs to analyze if the 
+race of the patient is related to the hospitalization costs.
+4. To properly utilize the costs, the agency must analyze the severity of the 
+hospital costs by age and gender for the proper allocation of resources.
+5. To find if the length of stay can be predicted from age, gender, and race.
+6. To perform a complete analysis, the agency wants to find the variable that 
+mainly affects hospital costs.
+
